@@ -1,4 +1,4 @@
-package almazbeg.week01;
+package Almazbek.week01;
 
 public class ReverseString {
     public static void main(String[] args){
