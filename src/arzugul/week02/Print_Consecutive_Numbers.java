@@ -1,7 +1,6 @@
 package arzugul.week02;
 
 public class Print_Consecutive_Numbers {
-
     public static void main(String[] args) {
         consecutiveNumbers(16);
     }
