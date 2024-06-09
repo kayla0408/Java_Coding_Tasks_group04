@@ -19,7 +19,7 @@ public class ReverseNegativeNumber {
 
     }
 
-  /*  public static int reversenegativeNumber(int N){
+  /* public static int reversenegativeNumber(int N){
         // Convert the negative number to a string
 
         String numStr = String.valueOf(N);
