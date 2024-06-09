@@ -1,10 +1,9 @@
-package Kadriye.week01;
+package almazbeg.week01;
 
 public class ReverseString {
     public static void main(String[] args){
 
- String str= "Hello";
- //hihihi
+ String str= "Hello guys";
 
 
 
