@@ -10,6 +10,7 @@ public class ConsecutiveNumbers {
     // For example, numbers divisible by both 2 and 3 should be replaced by CodilityTest
     // and numbers divisible by all three numbers: 2,3 and 5, should be replaced by CodilityTestCoders.
     public static void main(String[] args) {
+
         printNumbers(15);
     }
 
