@@ -8,7 +8,7 @@ public class ReverseNegativeNumber {
 public static int reverseNegativeNum(int n ){
     int reversed = 0;
 
-    while(n < 0){
+    while(n < 0){ // -35  53
         int lastDigit = n % 10;
         reversed = reversed * 10 + lastDigit;
         n /= 10;
