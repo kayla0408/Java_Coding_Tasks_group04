@@ -20,7 +20,7 @@ public class String_UniqueCharacters {
                 unique.remove(eachLetter);
             }
 
-        } return unique.toString();
+       } return unique.toString();
     }
 }
 /* Write a return  method that can find the unique characters from the String
